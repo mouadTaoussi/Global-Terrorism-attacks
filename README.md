@@ -6,21 +6,36 @@ the original dataset is not included in this repository, due to large volume tha
 
 ## Data elements
 
-**eventid**: A 12-digit Event ID system. First 8 numbers – date recorded “yyyymmdd”. Last 4 numbers – sequential case number for the given day (0001, 0002 etc).</br>
-**iyear**: This field contains the year in which the incident occurred.</br>
-**imonth**: This field contains the number of the month in which the incident occurred.</br>
-**iday**: This field contains the numeric day of the month on which the incident occurred.</br>
-**extended**:</br>
-    - 1 = "Yes" The duration of an incident extended more than 24 hours.</br>
-    - 0 = "No" The duration of an incident extended less than 24 hours.</br>
-**country**: This field identifies the country code.</br>
-**country_txt**: This field identifies the country or location where the incident occurred.</br>
-**region**: This field identifies the region code based on 12 regions.</br>
-**alternative_txt**</br>
-**attacktype1_txt**</br>
-**attacktype2_txt**</br>
-**targtype1_txt**</br>
-**targsubtype1_txt**</br>
+**eventid**: A 12-digit Event ID system. First 8 numbers – date recorded “yyyymmdd”. Last 4 numbers – sequential case number for the given day (0001, 0002 etc).
+
+**iyear**: This field contains the year in which the incident occurred.
+
+**imonth**: This field contains the number of the month in which the incident occurred.
+
+**iday**: This field contains the numeric day of the month on which the incident occurred.
+
+**extended**:
+
+    - 1 = "Yes" The duration of an incident extended more than 24 hours.
+    
+    - 0 = "No" The duration of an incident extended less than 24 hours.
+    
+**country**: This field identifies the country code.
+
+**country_txt**: This field identifies the country or location where the incident occurred.
+
+**region**: This field identifies the region code based on 12 regions.
+
+**alternative_txt**
+
+**attacktype1_txt**
+
+**attacktype2_txt**
+
+**targtype1_txt**
+
+**targsubtype1_txt**
+
 
 ## Key questions
 
