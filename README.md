@@ -8,7 +8,7 @@ the original dataset is not included in this repository, due to large volume tha
 **iyear**: This field contains the year in which the incident occurred.</br>
 **imonth**: This field contains the number of the month in which the incident occurred.</br>
 **iday**: This field contains the numeric day of the month on which the incident occurred.</br>
-**extended**:
+**extended**:</br>
     - 1 = "Yes" The duration of an incident extended more than 24 hours.</br>
     - 0 = "No" The duration of an incident extended less than 24 hours.</br>
 **country**: This field identifies the country code.</br>
