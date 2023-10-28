@@ -1,4 +1,6 @@
-## Global terrorism attaks analysis
+## Global terrorism attacks analysis
+
+This dataset covers terrorist attacks that occured in the past in different countries of the globe, all these devastating events in the dataset are going to be analysed using the Pandas library in Python, as well as the output is going to be served to build the final report using the power BI tool, tool for business intelligence.
 
 the original dataset is not included in this repository, due to large volume that exeeds the minimum volume allowed in github, the original dataset can be found at this [kaggle dataset](https://www.kaggle.com/datasets/START-UMD/gtd)
 
