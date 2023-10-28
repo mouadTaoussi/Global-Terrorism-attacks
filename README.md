@@ -1,6 +1,8 @@
 https://www.kaggle.com/datasets/START-UMD/gtd
 https://chat.openai.com/share/ba9cca7b-b802-44d1-9556-45f309bd880f
 
+the original dataset is not included in this repository, due to large volume that exeeded the minimum volume allowed in github 
+
 eventid: A 12-digit Event ID system. First 8 numbers – date recorded “yyyymmdd”. Last 4 numbers – sequential case number for the given day (0001, 0002 etc).
 iyear: This field contains the year in which the incident occurred.
 imonth: This field contains the number of the month in which the incident occurred.
